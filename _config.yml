@@ -5,7 +5,7 @@ title:       Caleb Ejakait
 email:       ejakaitcaleb@gmail.com
 author:      Caleb Ejakait
 description: "Portfolio/Blog"
-baseurl:     "https://ejakait.github.io/"
+baseurl:     ""
 url:         "ejakait.github.io"
 date_format: "%b %-d, %Y"
 
