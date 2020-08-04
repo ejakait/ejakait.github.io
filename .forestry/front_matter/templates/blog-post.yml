@@ -17,5 +17,3 @@ fields:
 - type: text
   name: categories
   label: categories
-pages:
-- _posts/2020-08-04-testing.md
