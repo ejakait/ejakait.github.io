@@ -7,91 +7,53 @@ permalink: "/resume/"
 ---
 # Jonathon Belotti
 
-<div id="webaddress">
-<a href="mailto:jonathon.bel.melbourne@gmail.com">jonathon.bel.melbourne@gmail.com</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a>
-|
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a>
+<div id="webaddress"> <a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a> 
+
 </div>
 
 ## Experience
 
-`2017-`
-**Data Engineering Intern, Zendesk** Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+`2018 Oct - Present`
 
-`2016`
-**Web Developer, RMIT Melbourne** Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+**Junior Data Engineering, Arifu** - Work alongside the data science team on data warehousing 
 
-`2016`
-**Research Assistant, RMIT Melbourne** Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+`2017 Jan - 2017 March` 
 
-**Tutor (Computer Science), Indigenous Tutorial Assistance Scheme** Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+**Software Engineering Intern, Symatech Labs** - Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
-`2015-`
-**Bachelor of Software Engineering, RMIT Melbourne**
+`2014 - 2018`
 
-**_GPA 3.9:_**  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
-
-`2011-13`
-**Bachelor of Environments (Architecture), University of Melbourne**
-
-`2007-10`
-**Melbourne High School** 95.80 / 100 ATAR
-
-## University Leadership & Involvement
-
-`2016-`
-**President, Computer Science & IT Society** Rebranded the club, completed its website and have set up new student engagement initiatives.
-
-`2014-15`
-**Lead Investment & IT Officer, Foresight Investment** With over $50,000 AUM the group generated annualised returns of greater than 11% while the ASX200 went down.
-
-`2016-`
-**Founder & Vice President - RMIT Programming Club** Setup club’s communication channels.branding, and website. Created leadership group and now run meetings biweekly
+ **Bachelor of Science in Informatics - Stathmore University**
 
 ## Projects
 
-### Insults
+### ZCash
 
-Uses Machine Learning to detect if online comments are insulting or derogatory. In the spirit of Google’s Perspective Project.
+Mutual fund execution web app on blockchain using BigChainDB and Django
 
-### aimacode/aima-(java|python)
-
-Implemented the HITS (python and java) algorithm and CYK Parsing algorithm (java).
-
-### sudkamp-langs-machines=(java|python)
-
-Implementing computing theory algorithms from Sudkamp’s Languages and Machines textbook in Python and Java.
-
-*** Please see my Github profile for other projects and pull-request contributions.**
+\*** Please see my Github profile for other projects and pull-request contributions.**
 
 ## Awards
 
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
+Strathmore Sports Scholarship - Basketball
 
 ## Technical
 
+Frameworks: Django, Ruby on Rails
+
+Databases: Postgres, MySQL, BigQuery
+
+Languages: Python
+
+Data Exploration: Pandas, Dask, SQL
+
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:jbelotti@zendesk.com">jbelotti@zendesk.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/thundergolfer">thundergolfer</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/jonobelotti_IO">jonobelotti_IO</a><br />
+* <i class="fa fa-envelope"></i> <a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a><br />
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: August 2020-->
