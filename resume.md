@@ -13,7 +13,7 @@ permalink: "/resume/"
 
 ## Experience
 
-##### **Junior Data Engineering, Arifu**
+**Junior Data Engineer**
 
 \- Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
