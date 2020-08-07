@@ -13,21 +13,21 @@ permalink: "/resume/"
 
 ## Experience
 
-**2018 October - Present,**
+**2018 October - Present**
 
 **Junior Data Engineer, Arifu**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
+
+**2017 Jan - 2017 March**
 
 **Software Engineering Intern, Symatech Labs** Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
-##### **Bachelor of Science in Informatics - Stathmore University**
+Bachelor of Science in Informatics, Strathmore University
 
 ## Projects
 
-### ZCash
-
-Mutual fund execution web app on blockchain using BigChainDB and Django
+**ZCash** Mutual fund execution web app on blockchain using BigChainDB and Django
 
 \*** Please see my Github profile for other projects and pull-request contributions.***
 
@@ -41,9 +41,11 @@ Frameworks: Django, Ruby on Rails
 
 Databases: Postgres, MySQL, BigQuery
 
-Languages: Python
+Languages: Python, Ruby, Javascript
 
 Data Exploration: Pandas, Dask, SQL
+
+Cloud Platforms: AWS, Google Cloud Platform
 
 ## Links
 
