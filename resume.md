@@ -15,19 +15,19 @@ permalink: "/resume/"
 
 #### 2018 Oct - Present
 
-##### **Junior Data Engineering, Arifu** 
+##### **Junior Data Engineering, Arifu**
 
 \- Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
 #### 2017 Jan - 2017 March
 
-##### **Software Engineering Intern, Symatech Labs** 
+##### **Software Engineering Intern, Symatech Labs**
 
- Redesigned the company website and contributed to the backed development of Android.
+Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
-#### 2014 - 2017
+2014 - 2017
 
 ##### **Bachelor of Science in Informatics - Stathmore University**
 
