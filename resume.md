@@ -13,13 +13,9 @@ permalink: "/resume/"
 
 ## Experience
 
-**Junior Data Engineer**
+**Junior Data Engineer -** Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
-\- Work alongside the data science team on data warehousing and ETL pipeline design and development.
-
-##### **Software Engineering Intern, Symatech Labs**
-
-Redesigned the company website and contributed to the backed development of Android.
+**Software Engineering Intern, Symatech Labs -** Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
