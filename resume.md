@@ -13,7 +13,7 @@ permalink: "/resume/"
 
 ## Experience
 
-**2018 October - Present** 
+**2018 October - Present,**
 
 **Junior Data Engineer, Arifu**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
