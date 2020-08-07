@@ -31,7 +31,7 @@ Redesigned the company website and contributed to the backed development of Andr
 
 Mutual fund execution web app on blockchain using BigChainDB and Django
 
-\*** Please see my Github profile for other projects and pull-request contributions.**
+\*** Please see my Github profile for other projects and pull-request contributions.***
 
 ## Awards
 
