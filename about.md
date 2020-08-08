@@ -15,15 +15,14 @@ My main areas of interest are in Blockchain tech implimentation, Agent-Oriented 
 
 ## Talks
 
-* Put something here!
-  {% endif %}
+
+{% endif %}
 
 {% if site.show_workshops_section %}
 
 ## Workshops
 
-* Put something here!
-  {% endif %}
+ {% endif %}
 
 <style>
 .post-header, #talks, #workshops {
