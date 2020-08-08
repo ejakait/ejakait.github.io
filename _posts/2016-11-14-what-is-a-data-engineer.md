@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What's A Data Engineer?
-date: 2016-11-14
+date: 2020-08-08 00:00:00 +0300
 summary: Let's break into some of the best answers I could find online.
 categories: data-engineering career
 
