@@ -22,7 +22,7 @@ Work alongside the data science team on data warehousing and ETL pipeline design
 
 **Symatech Labs**
 
-**2017 Jan- March**
+###### **2017 Jan- March**
 
 **Software Engineering Intern**
 Redesigned the company website and contributed to the backed development of Android.
