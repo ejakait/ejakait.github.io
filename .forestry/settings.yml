@@ -17,7 +17,7 @@ sections:
   label: Portfolio
   create: all
   match: "**/*"
-upload_dir: uploads
+upload_dir: images
 public_path: "/images"
 front_matter_path: "/images"
 use_front_matter_path: false
