@@ -7,29 +7,31 @@ permalink: "/resume/"
 ---
 # Caleb Ejakait
 
-<div id="webaddress"> <a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a>
+<div id="webaddress"> <a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a>| <i class="fa fa-linkedin"></i> <a href="www.linkedin.com/in/calebejakait">Caleb Ejakait</a>
 
 </div>
 
 ## Experience
 
-##### **2018 October - Present**
+`2018 Oct - Present`
 
-**_Junior Data Engineer, Arifu_**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
+**Junior Data Engineer, Arifu**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
-**2017 Jan - 2017 March**
+`2017 Jan - 2017 March`
 
-**_Software Engineering Intern, Symatech Labs_** Redesigned the company website and contributed to the backed development of Android.
+**Software Engineering Intern, Symatech Labs** Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
-**2014 - 2018**
+`2014 - 2018`
 
-**_Strathmore University_**, Bachelor of Science in Informatics
+**Bachelor of Science in Informatics, Strathmore University**
+
+Second Class Upper Honors
 
 ## Projects
 
-**ZCash** Mutual fund execution web app on blockchain using BigChainDB and Django
+**Zcash** Mutual fund execution web app on blockchain using BigChainDB and Django.
 
 ## Awards
 
@@ -37,17 +39,8 @@ Strathmore Sports Scholarship - Basketball
 
 ## Technical
 
-Frameworks: Django, Ruby on Rails
-
-Databases: Postgres, MySQL, BigQuery
-
-Languages: Python, Ruby, Javascript
-
-Data Exploration: Pandas, Dask, SQL
-
-Cloud Platforms: AWS, Google Cloud Platform
-
-## Links
-
-* <i class="fa fa-envelope"></i><a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a><br />
+* Frameworks: Django, Ruby on Rails
+* Databases: Postgres, MySQL, BigQuery
+* Languages: Python, Ruby, Javascript
+* Data Exploration: Pandas, Dask, SQL
+* Cloud Platforms: AWS, Google Cloud Platform
