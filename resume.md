@@ -53,5 +53,5 @@ Cloud Platforms: AWS, Google Cloud Platform
 
 ## Links
 
-* <i class="fa fa-envelope"></i><a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a><br />
+* <i class="fa fa-envelope"></i><a href="mailto:ejakaitcaleb@gmail.com"><span>ejakaitcaleb</span><br><span>@gmail.com</span></a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a><br />
