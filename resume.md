@@ -19,7 +19,7 @@ permalink: "/resume/"
 
 ## Education
 
-**`2014 - 2018` Bachelor of Science in Informatics, Strathmore University**
+**Bachelor of Science in Informatics, Strathmore University**
 
 Second Class Upper Honors
 
