@@ -7,7 +7,7 @@ permalink: "/resume/"
 ---
 # Caleb Ejakait
 
-<div id="webaddress"> <a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a> | <i class="fa fa-linkedin"></i> <a href="[https://www.linkedin.com/in/calebejakait/](https://www.linkedin.com/in/calebejakait/ "https://www.linkedin.com/in/calebejakait/")">Caleb Ejakait</a>
+<div id="webaddress"> <a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a> | <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a> | <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/calebejakait/">Caleb Ejakait</a>
 
 </div>
 
