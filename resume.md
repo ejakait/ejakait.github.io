@@ -21,15 +21,19 @@ permalink: "/resume/"
 
 **Software Engineering Intern, Symatech Labs** Redesigned the company website and contributed to the backed development of Android.
 
+***
+
 ## Education
 
 **Bachelor of Science in Informatics**, Strathmore University
+
+***
 
 ## Projects
 
 **ZCash** Mutual fund execution web app on blockchain using BigChainDB and Django
 
-\*** Please see my Github profile for other projects and pull-request contributions.***
+***
 
 ## Awards
 
