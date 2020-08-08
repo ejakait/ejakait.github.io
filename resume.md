@@ -13,13 +13,13 @@ permalink: "/resume/"
 
 ## Experience
 
-**`2018 Oct - Present` Junior Data Engineer, Arifu**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
+`2018 Oct - Present` Junior Data Engineer, Arifu  Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
-**`2017 Jan - 2017 March` Software Engineering Intern, Symatech Labs** Redesigned the company website and contributed to the backed development of Android.
+`2017 Jan - 2017 March` Software Engineering Intern, Symatech Labs Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
-**`2014 - 2018` Bachelor of Science in Informatics, Strathmore University**
+`2014 - 2018` Bachelor of Science in Informatics, Strathmore University
 
 Second Class Upper Honors
 
@@ -35,7 +35,7 @@ Strathmore Sports Scholarship - Basketball
 
 **Frameworks**: Django, Ruby on Rails
 
-* **Databases**: Postgres, MySQL, BigQuery
-* **Languages**: Python, Ruby, Javascript
-* **Data Manipulation**: Pandas, Dask, SQL
-* **Cloud Platforms**: AWS, Google Cloud Platform
+**Databases**: Postgres, MySQL, BigQuery
+**Languages**: Python, Ruby, Javascript
+**Data Manipulation**: Pandas, Dask, SQL
+**Cloud Platforms**: AWS, Google Cloud Platform
