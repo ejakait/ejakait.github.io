@@ -13,27 +13,23 @@ permalink: "/resume/"
 
 ## Experience
 
-**2018 October - Present**
+##### **2018 October - Present**
 
-**Junior Data Engineer, Arifu**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
+**_Junior Data Engineer, Arifu_**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
 **2017 Jan - 2017 March**
 
-**Software Engineering Intern, Symatech Labs** Redesigned the company website and contributed to the backed development of Android.
-
-***
+**_Software Engineering Intern, Symatech Labs_** Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
-**Bachelor of Science in Informatics**, Strathmore University
+**2014 - 2018**
 
-***
+**_Strathmore University_**, Bachelor of Science in Informatics
 
 ## Projects
 
 **ZCash** Mutual fund execution web app on blockchain using BigChainDB and Django
-
-***
 
 ## Awards
 
@@ -53,5 +49,5 @@ Cloud Platforms: AWS, Google Cloud Platform
 
 ## Links
 
-* <i class="fa fa-envelope"></i><a href="mailto:ejakaitcaleb@gmail.com"><span>ejakaitcaleb</span><br/><span>@gmail.com</span></a><br />
+* <i class="fa fa-envelope"></i><a href="mailto:ejakaitcaleb@gmail.com">ejakaitcaleb@gmail.com</a><br />
 * <i class="fa fa-github"></i> <a href="http://github.com/ejakait">ejakait</a><br />
