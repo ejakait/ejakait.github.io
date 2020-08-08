@@ -23,7 +23,7 @@ permalink: "/resume/"
 
 ## Education
 
-Bachelor of Science in Informatics, Strathmore University
+**Bachelor of Science in Informatics**, Strathmore University
 
 ## Projects
 
