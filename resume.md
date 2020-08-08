@@ -13,25 +13,26 @@ permalink: "/resume/"
 
 ## Experience
 
-**2018 October - Presesnt**
+**Arifu** 
+**2019 Jul - Present**
+**Junior Data Emgineer** 
+  Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
-**Junior Data Engineer, Arifu**  Work alongside the data science team on data warehousing and ETL pipeline design and development.
-
+**Symatech Labs**
 **2017 Jan- March**
-
-**Software Engineering Intern, Symatech Labs** Redesigned the company website and contributed to the backed development of Android.
+**Software Engineering Intern** 
+  Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
-
+**Strathmore University**
 **2014 - 2018**
-
-**Bachelor of Science in Informatics, Strathmore University**
-
-Second Class Upper Honors
+**Bachelor of Science in Informatics**
+  Second Class Upper Honors
 
 ## Projects
 
-**Zcash** Mutual fund execution web app on blockchain using BigChainDB and Django.
+**Zcash** 
+Mutual fund execution web app on blockchain using BigChainDB and Django.
 
 ## Awards
 
