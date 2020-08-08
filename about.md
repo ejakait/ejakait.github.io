@@ -4,7 +4,7 @@ title: About Me
 permalink: "/about/"
 tags: about
 flicker: true
-headshot: "/images/headshot.jpeg"
+headshot: "/images/headshot-1.jpg"
 
 ---
 I am currently a Junior Data Engineer at Arifu working out of Nairobi.
