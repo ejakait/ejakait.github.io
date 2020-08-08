@@ -13,26 +13,18 @@ permalink: "/resume/"
 
 ## Experience
 
-**Arifu**
+`2019 Jul -`
+**Junior Data Engineer, Arifu** Work alongside the data science team on data warehousing and ETL pipeline design and development.
 
-**2019 Jul - Present**
-
-**Junior Data Engineer**
-Work alongside the data science team on data warehousing and ETL pipeline design and development.
-
-**Symatech Labs**
-
-**2017 Jan - March**
-
-**Software Engineering Intern**
+`2017 Jan - March`
+**Software Engineering Intern, Symatech Labs**
 Redesigned the company website and contributed to the backed development of Android.
 
 ## Education
 
 **Strathmore University**
 
-**2014 - 2018**
-
+`2014 - 2018`
 **Bachelor of Science in Informatics**
 Second Class Upper Honors
 
@@ -44,28 +36,29 @@ Mutual fund execution web app on blockchain using BigChainDB and Django.
 ## Experience
 
 `2017-`
-__Data Engineering Intern, Zendesk__ Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
+**Data Engineering Intern, Zendesk** Work alongside the data science team on the machine learning driven Automatic Answers and Satisfaction Prediction products.
 
 `2016`
-__Web Developer, RMIT Melbourne__ Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
+**Web Developer, RMIT Melbourne** Integrated xAPI into existing RMIT web tools, and worked on changing student’s relationship with their learning data.
 
 `2016`
-__Research Assistant, RMIT Melbourne__ Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
+**Research Assistant, RMIT Melbourne** Used Machine Learning and NLP libraries to predict language acquisition in second language learners.
 
-__Tutor (Computer Science), Indigenous Tutorial Assistance Scheme__ Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
+**Tutor (Computer Science), Indigenous Tutorial Assistance Scheme** Tutor students in algorithm design and analysis, database concepts, and software engineering fundamentals.
 
 ## Education
 
 `2015-`
-__Bachelor of Software Engineering, RMIT Melbourne__
+**Bachelor of Software Engineering, RMIT Melbourne**
 
-***GPA 3.9:***  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
+**_GPA 3.9:_**  100 - Web Programming, 97 - Soft. Eng. Fundamentals, 93 - Data Comm, 89 - Discrete Math
 
 `2011-13`
-__Bachelor of Environments (Architecture), University of Melbourne__
+**Bachelor of Environments (Architecture), University of Melbourne**
 
 `2007-10`
-__Melbourne High School__ 95.80 / 100 ATAR
+**Melbourne High School** 95.80 / 100 ATAR
+
 ## Awards
 
 Strathmore Sports Scholarship - Basketball
